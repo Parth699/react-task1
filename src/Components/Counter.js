@@ -20,7 +20,7 @@ class Counter extends Component {
   }
 
   render() {
-    return 
+    return (
       <>
         <center>
           <h1>{this.state.number}</h1>
